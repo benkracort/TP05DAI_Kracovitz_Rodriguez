@@ -1,0 +1,16 @@
+{
+  "name": "tp05dai_kracovit_rodriguez",
+  "version": "1.0.0",
+  "description": "Mini Pokédex Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
