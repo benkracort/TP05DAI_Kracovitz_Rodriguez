@@ -27,6 +27,12 @@ body {
     align-items: center;
     text-align: center;
 }
+
+main {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+
 main h3 {
     margin-bottom: 1%;
 }
@@ -42,4 +48,8 @@ footer {
     background-color: red;
     padding-top: 0.5%;
     padding-bottom: 0.5%;
+}
+
+#error, #loading {
+    margin-top: 1%;
 }

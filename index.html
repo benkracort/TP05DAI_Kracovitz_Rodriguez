@@ -17,11 +17,14 @@
 
     <main>
         <img src="img/pokedex.webp" alt="" class="pokedexImg">
-        <h3>Ingresa el nombre de un pokemon:</p>
-        <form action="">
-            <input type="text">
-            <input type="submit">
-        </form>
+        <h3>Ingresa el nombre de un Pokémon:</h3>
+        <div class="search-box">
+            <input type="text" id="inputBuscar" placeholder="Ej: pikachu">
+            <button id="botonBuscar">Buscar</button>
+        </div>
+        <p id="loading" style="display:none">Cargando...</p>
+        <p id="error" style="display:none"></p>
+        <div id="resultado"></div>
     </main>
 
     <footer>Copyright &copy; 2026 - Kracodriguez</footer>
