@@ -1,3 +1,4 @@
+# Parte 1
 URL construida:
 https://pokeapi.co/api/v2/pokemon/ditto
 
@@ -25,3 +26,5 @@ id (número)
 sprites.front_default (imagen)
 types[].type.name (tipo)
 abilities[].ability.name (habilidades)
+
+# Parte 2
