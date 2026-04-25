@@ -53,3 +53,15 @@ footer {
 #error, #loading {
     margin-top: 1%;
 }
+
+#error {
+    border: 3px solid red;
+    background-color: rgb(255, 0, 0, 0.5);
+    margin-left: 35%;
+    margin-right: 35%;
+    color: black !important;
+}
+
+.pokemonImg {
+    width: 20%;
+}
