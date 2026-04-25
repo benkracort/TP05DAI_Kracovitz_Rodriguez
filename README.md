@@ -1,4 +1,4 @@
-## Parte 1
+# Parte 1
 
 **¿Cómo dedujeron la estructura de las URLs?**
 La mayoria fueron prueba y error jugando con el link a ver si devolvia algo y volviendo a ver la teoria de "HTTP ¿Que es?"
@@ -13,7 +13,7 @@ Error: un error 404
 **¿Qué ocurre ante un error?**
 Devuelve el tipo de error con su descripcion
 
-## Parte 2
+# Parte 2
 **Endpoints utilizados**
 Unicamente fueron utilizados los de obtener por nombre y error
 **Estructura del proyecto**
